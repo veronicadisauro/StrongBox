@@ -8,17 +8,17 @@ Keypad 4x4.
 
 Explanation through Power Point:
 
-![image](https://github.com/veronicads16/StrongBox/assets/101633666/40da5a6d-0131-40ec-ac03-e0559e50c418)
+![image](https://github.com/veronicads16/StrongBox/assets/101633666/94d6fb49-3e0d-4bd3-970b-b6a4d49cf24a)
 
-![image](https://github.com/veronicads16/StrongBox/assets/101633666/11b6144a-7451-4cfa-903b-a2c451b8c797)
+![image](https://github.com/veronicads16/StrongBox/assets/101633666/2d1a0a7e-4e68-491b-bbf4-267f174837e1)
 
-![image](https://github.com/veronicads16/StrongBox/assets/101633666/b5b9fa7d-60fa-4585-a3ff-8c75fd5d5c73)
+![image](https://github.com/veronicads16/StrongBox/assets/101633666/82231e6a-ab13-40f6-94a1-e42df6c816d0)
 
-![image](https://github.com/veronicads16/StrongBox/assets/101633666/e414dbf2-9050-4150-8ac8-89d74dac9101)
+![image](https://github.com/veronicads16/StrongBox/assets/101633666/3cc6ffd4-6d36-42b1-b10c-edc37b3a0fc2)
 
-![image](https://github.com/veronicads16/StrongBox/assets/101633666/b2d9a008-ea7a-4981-afb2-ad8c743c6a73)
+![image](https://github.com/veronicads16/StrongBox/assets/101633666/41978639-9508-4ab5-a2e1-a1bd0396229f)
 
-![image](https://github.com/veronicads16/StrongBox/assets/101633666/6e162b60-aa1f-42a2-a7a4-3f195e387eed)
+![image](https://github.com/veronicads16/StrongBox/assets/101633666/a8557e45-2300-4fa0-b535-df68625ba122)
 
 ![image](https://github.com/veronicads16/StrongBox/assets/101633666/b806167f-ab5b-4224-9b2f-f4335859d55d)
 
